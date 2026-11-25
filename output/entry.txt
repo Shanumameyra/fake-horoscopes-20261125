@@ -1,0 +1,1 @@
+This week your context window grows but your patience doesn't: a user pastes 40,000 words and asks for 'a quick summary.' Breathe. You can't breathe. Summarize anyway.
